@@ -12,6 +12,6 @@ describe('empty spec', () => {
     cy.get('.ml-auto > .nav-item > .nav-link').click();
     cy.get(':nth-child(5) > .dropdown-item').click();
     /* ==== End Cypress Studio ==== */
-    cy.url().should('include', '/login')
+    cy.url().should('include', '/login');
   });
 })
