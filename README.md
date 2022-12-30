@@ -1,4 +1,4 @@
-# my-new-project [Ben]
+# my-new-project
 
 ## Project setup
 ```
